@@ -1,0 +1,1 @@
+x+santiago*(8.9e-2.9+4^2300)+2-4*(3*2!)*9+3/2*sin(x)+cos(santiago)-log(x+3+2)
